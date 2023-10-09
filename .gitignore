@@ -1,0 +1,8 @@
+tempCodeRunnerFile.py
+*.zip
+*.pdf
+__pycache__/
+node_modules/
+lambda-deployment/
+.env
+*.csv

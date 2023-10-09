@@ -1,0 +1,1 @@
+{"errorMessage": "Unable to import module 'lambda_function': Error importing numpy: you should not try to import numpy from\n        its source directory; please exit the numpy source tree, and relaunch\n        your python interpreter from there.", "errorType": "Runtime.ImportModuleError", "requestId": "8cfff03f-4682-4b50-8261-b6d65a9b8fc4", "stackTrace": []}
