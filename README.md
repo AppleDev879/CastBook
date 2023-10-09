@@ -1,4 +1,4 @@
-# PDF-Eater
+# CastBook
 
 ## Background
 Some film sets require workers to keep in contact with other workers on the set, but the process of adding users from the call sheet PDF's into an address book is manual and time-consuming. I built a Python-based PDF parser that takes a PDF as input and performs Named Entity Recognition (NER) using SpaCy to detect names, phone numbers, and email addresses of set workers and export them as JSON data which can be read through a companion mobile app. The mobile app can then do the work of adding people to address books.
